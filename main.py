@@ -8,7 +8,7 @@ ORGANIZED_PATHS = {
     'Documents': ['.pdf', '.doc', '.docx', '.md', '.xlsx', '.ppt'],
     'Images': ['.jpg', 'jpeg', '.gif', 'png', '.svg', '.tga'],
     'Archives': ['.zip', '.rar', '.7z'],
-    '1C': ['.epf', '.erf', '.cf', '.cfu', '.cfe', '.dt', '.DT'],
+    '1C': ['.epf', '.erf', '.cf', '.cfu', '.cfe', '.dt', '.bsl','.os'],
     'Softs': ['.exe','.msi'],
     'Texts': ['.txt'],
     'Temps': ['.crdownload'],
